@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 -->
 #### Markup:
 
-[<img align="middle" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/topics/html) [<img align="middle" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/topics/css) [<img align="middle" alt="LaTeX" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/200px-LaTeX_logo.svg.png" />](https://github.com/topics/latex)
+[<img align="middle" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/topics/html) [<img align="middle" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/topics/css) [<img align="middle" alt="LaTeX" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />](https://github.com/topics/latex)
+
+#### Other:
+[<img align="middle" alt="Spring-Boot" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />](https://github.com/topics/spring-boot)
 
 <!-- 
 [<img align="middle" alt="Bash" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png" />](https://github.com/topics/bash)https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/200px-LaTeX_logo.svg.png
